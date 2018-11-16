@@ -6,6 +6,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  color: white;
     
 }
 
@@ -14,33 +15,28 @@ h1 {
     margin-left: 20%;
     margin-bottom: 3%;
     margin-top: 2%;
-    color:white;
 }
 
 #avail {
     float: left;
     margin-right: 6%;
     margin-left: 10%;
-    color:white;
 
 
 }
 
 #devoured {
     float: left;
-    color:white;
 
 }
 
 li {
     font-size: 20px;
     list-style-type: none;
-    color: white;
 }
 
 
 #add {
     clear: both;
     margin-left: 25%;
-    color:white;
 }
